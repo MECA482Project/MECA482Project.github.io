@@ -1,6 +1,6 @@
 **By John Grenard & Travis Gubbins**
 
-**Fall Semester 2022**
+**Spring Semester 2022**
 
 **MECA 482-01** 
 
