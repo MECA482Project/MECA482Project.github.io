@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+**By John Grenard & Travis Gubbins**
+
+**Fall Semester 2022**
+
+**MECA 482-01** 
 
 You can use the [editor on GitHub](https://github.com/MECA482Project/MECA482Project.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# MATLAB Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shown below is the MATLAB code used in creating the mathematical model of the system.
 
 ```markdown
 Syntax highlighted code block
