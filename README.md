@@ -12,27 +12,32 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # MECA 482 Project Report 
 
-# MATLAB Code
+# MATLAB Code For Creating The Constants
 
 Shown below is the MATLAB code used in creating the mathematical model of the system.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+
+# MATLAB Code For Creating The Simulation
+
+Shown below is the MATLAB code used in creating the mathematical model of the system.
+
+```markdown
+Syntax highlighted code block
+
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 # MATLAB Simulation Based Off Our Simulink Model
 
 ![MATLAB Simulation Based Off Our Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
