@@ -8,6 +8,8 @@ You can use the [editor on GitHub](https://github.com/MECA482Project/MECA482Proj
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# The 5 Minute Presentation 
+
 # MATLAB Code
 
 Shown below is the MATLAB code used in creating the mathematical model of the system.
@@ -31,6 +33,6 @@ Syntax highlighted code block
 ```
 # MATLAB Simulation Based Off Our Simulink Model
 
-![Simulink Model Based on Matlab Code](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
+![MATLAB Simulation Based Off Our Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
 
 **Figure 1.** The MATLAB Simulation
