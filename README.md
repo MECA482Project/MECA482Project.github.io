@@ -21,12 +21,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Shown below is the MATLAB code used in creating the mathematical model of the system.
 
 ```markdown
-Syntax highlighted code block
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+clear
+clc
+%% Define the Parameters of The System
+g = 9.81; %(Meter/Second^2)
+m1 = 0.380; %(Kilograms)
+m2 = 0.054; %(Kilograms)
+L1 = 0.066; %(Meters)
+L2 = 0.146; %(Meters)
+J = 3.5256e-4; %(Kilogram-Meter^2)
+Re = 14.5; % Potential energy
+ke = 0.5; % Kinetic Energy
+M = 0.044; 
+kb_p = 4.7940e-04 ;
+kb_m = 6.75e-4 ;
 ```
 
 # MATLAB Code For Creating The Simulation
