@@ -31,7 +31,7 @@ Syntax highlighted code block
 
 # MATLAB Code For Creating The Simulation
 
-Shown below is the MATLAB code used in creating the mathematical model of the system.
+Shown below is the MATLAB code used in creating the simulation of the system.
 
 ```markdown
 Syntax highlighted code block
