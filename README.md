@@ -38,6 +38,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Simulink Model
+
 # MATLAB Simulation Based Off Our Simulink Model
 
 ![MATLAB Simulation Based Off Our Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
