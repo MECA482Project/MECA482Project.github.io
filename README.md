@@ -195,7 +195,7 @@ end
 
 # CoppeliaSim Simulation Based Off Our MATLAB Code
 
-
+![CoppeliaSim Simulation Based Off Our MATLAB Code](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/CoppeliaSim/FURUTA_COPPELIASIM.gif)
 
 **Figure 7.** The CoppeliaSim Simulation
 
