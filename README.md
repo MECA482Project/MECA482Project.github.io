@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # The 5 Minute Presentation 
 
+# MECA 482 Project Report 
+
 # MATLAB Code
 
 Shown below is the MATLAB code used in creating the mathematical model of the system.
