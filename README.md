@@ -4,7 +4,7 @@
 
 **MECA 482-01** 
 
-![Furuta Pendulum Picture](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Picture%20of%20Furuta%20Pendulum.PNG)\
+![Furuta Pendulum Picture](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Picture%20of%20Furuta%20Pendulum.PNG)\
 
 **Figure 1.** Furuta Pendulum
 
