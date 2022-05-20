@@ -186,7 +186,7 @@ end
 
 # MATLAB Simulation Based Off Our Simulink Model
 
-![MATLAB Simulation Based Off Our Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
+![MATLAB Simulation Based Off Our Simulink Model (https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/482%20Project%20Pendulum%20GIF.gif)
 
 **Figure 3.** The MATLAB Simulation
 
