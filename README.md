@@ -53,7 +53,25 @@ Syntax highlighted code block
 **Figure 3.** The MATLAB Simulation
 
 
-# References for Github
+# References
+
+[1] Norman S. Nise - Control Systems Engineering-Wiley (2015) 7th Edition <br>
+
+[2] Lecture and reference videos from H. Sinan Bank’s Blackboard page <br>
+
+[3] Wikipedia, Furuta Pendulum, Retrieved by Apr., 19, 2022 from https://en.wikipedia.org/wiki/Furuta_pendulum <br>
+
+[4] IEEEXPLORE, Modeling, Simulation, and Construction of a Furuta Pendulum Test-Bed, Retrieved by Apr., 25, 2022 from <br>
+https://ieeexplore.ieee.org/document/7086928 <br>
+
+[5] Control System Tutorials for MATLAB and Simulink, Retrieved by Apr, 22, 2022 from <br>
+http://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling <br>
+
+[6] GitHub Docs, Creating and highlighting code blocks, Retrieved by May, 02, 2022 from <br>
+https://docs.github.com/en/get-started/writing-on-github <br>
+
+[7] Quanser, QUBE – Servo 2, Retrieved by May, 02, 2022 from <br>
+https://www.quanser.com/products/qube-servo-2/ <br>
 
 [8] Screencast-O-Matic, Sites used on May, 19, 2022 from <br> 
 https://screencast-o-matic.com/ <br>
