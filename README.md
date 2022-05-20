@@ -33,4 +33,4 @@ Syntax highlighted code block
 
 ![Simulink Model Based on Matlab Code](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
 
-Figure 1. The MATLAB Simulation
+**Figure 1.** The MATLAB Simulation
