@@ -180,7 +180,7 @@ end
 
 # Simulink Model
 
-![Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Screenshot%20of%20the%20Simulink.PNG)
+![Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Screenshot%20of%20the%20Simulink.PNG)
 
 **Figure 2.** The Simulink Model
 
