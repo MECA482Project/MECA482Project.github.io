@@ -16,6 +16,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # MECA 482 Project Report 
 
+The MECA 482 Furuta Pendulum Project Report can be found [Here](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Project%20Report/Final%20Project%20Report%20TEST.pdf)
+
 # MATLAB Code For Creating The Constants
 
 Shown below is the MATLAB code used in creating the mathematical model of the system.
