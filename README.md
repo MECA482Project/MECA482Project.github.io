@@ -18,6 +18,22 @@ The 5 minutes presentation video can be found Here
 
 The MECA 482 Furuta Pendulum Project Report can be found [Here](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Project%20Report/Final%20Project%20Report%20TEST.pdf)
 
+# Furuta Pendulum Operational Viewpoints
+
+![Side View of the Operational Viewpoint](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Pendulum%20Side%20View.PNG)
+
+**Figure 2.** Side View of the Operational Viewpoint
+
+![Top View of the Operational Viewpoint](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Pendulum%20Top%20View.PNG)
+
+**Figure 3.** Top View of the Operational Viewpoint
+
+# Functional Viewpoint of Furuta Pendulum
+
+![Functional Viewpoint of Furuta Pendulum](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Furuta%20Pendulum%20Functional%20Viewpoint.jpg)
+
+**Figure 4.** Side View of the Operational Viewpoint
+
 # MATLAB Code For Creating The Constants
 
 Shown below is the MATLAB code used in creating the mathematical model of the system.
@@ -183,19 +199,19 @@ end
 
 ![Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Screenshot%20of%20the%20Simulink.PNG)
 
-**Figure 2.** The Simulink Model
+**Figure 5.** The Simulink Model
 
 # MATLAB Simulation Based Off Our Simulink Model
 
 ![MATLAB Simulation Based Off Our Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/482%20Project%20Pendulum%20GIF.gif)
 
-**Figure 3.** The MATLAB Simulation
+**Figure 6.** The MATLAB Simulation
 
 # CoppeliaSim Simulation Based Off Our MATLAB Code
 
 
 
-**Figure 4.** The CoppeliaSim Simulation
+**Figure 7.** The CoppeliaSim Simulation
 
 # References
 
