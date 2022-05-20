@@ -97,8 +97,7 @@ Ap2(4,3) = -A(4,3); Ap2(4,4) = -B(4,2) * kb_p;
 % Swing Down Matrix B
 Bp2 = zeros(4,1);
 Bp2(2) = B(2,1) * ke/Re;  
-Bp2(4) = -B(4,1) * ke/Re;  
-
+Bp2(4) = -B(4,1) * ke/Re;  =
 K2 = place(Ap2,Bp2,[-5 -4 -2+2j -2-2j]);
 R2 = 1;
 Q2=[1 0 0 0; 0 10 0 0; 0 0 1000 0; 0 0 0 10];
