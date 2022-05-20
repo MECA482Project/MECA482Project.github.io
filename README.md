@@ -44,6 +44,8 @@ Syntax highlighted code block
 
 # Simulink Model
 
+![Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Screenshot%20of%20the%20Simulink.PNG)
+
 **Figure 2.** The Simulink Model
 
 # MATLAB Simulation Based Off Our Simulink Model
