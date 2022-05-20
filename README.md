@@ -4,13 +4,11 @@
 
 **MECA 482-01** 
 
+This is the MECA 482 Furuta Pendulum project Github page. The purpose of this project is to create a mathematical model of a Furuta Pendulum or rotational inverted pendulum, shown above in figure 1, which can be used along with a 3-D model and Simulink to simulate its response. A Furuta Pendulum is a system in where an inverted pendulum is held upright on a horizontal arm which is moved by the torque of a motor spinning the system about its vertical axis. Once the pendulum arm is brought up in the upright position the system must then stabilize it and hold it in this position. 
+
 ![Furuta Pendulum Picture](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Pictures%20%26%20GIFs/Picture%20of%20Furuta%20Pendulum.PNG)\
 
 **Figure 1.** Furuta Pendulum
-
-You can use the [editor on GitHub](https://github.com/MECA482Project/MECA482Project.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # The 5 Minute Presentation 
 
