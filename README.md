@@ -4,6 +4,10 @@
 
 **MECA 482-01** 
 
+![Furuta Pendulum Picture](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/Picture%20of%20Furuta%20Pendulum.PNG)\
+
+**Figure 1.** Furuta Pendulum
+
 You can use the [editor on GitHub](https://github.com/MECA482Project/MECA482Project.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -40,13 +44,13 @@ Syntax highlighted code block
 
 # Simulink Model
 
-**Figure 1.** The Simulink Model
+**Figure 2.** The Simulink Model
 
 # MATLAB Simulation Based Off Our Simulink Model
 
 ![MATLAB Simulation Based Off Our Simulink Model](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/482%20Project%20Pendulum%20GIF.gif)
 
-**Figure 2.** The MATLAB Simulation
+**Figure 3.** The MATLAB Simulation
 
 
 # References for Github
