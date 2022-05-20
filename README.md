@@ -195,7 +195,7 @@ end
 
 
 
-**Figure .** The CoppeliaSim Simulation
+**Figure 4.** The CoppeliaSim Simulation
 
 # References
 
