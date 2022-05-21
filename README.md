@@ -12,7 +12,8 @@ This is the MECA 482 Furuta Pendulum project Github page. For the Full overview 
 
 # The 5 Minute Presentation 
 
-The 5 minutes presentation video can be found Here
+The 5 minutes presentation video can be found [Here](https://github.com/MECA482Project/MECA482Project.github.io/blob/main/5%20Minute%20Presentation/Meca%20482%20Project%20presentation%20Compress.m4v)
+**You might need to download the video because the file size is large.**
 
 # MECA 482 Project Report 
 
